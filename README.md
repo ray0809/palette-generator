@@ -33,7 +33,7 @@ python color_generator.py your_weight_path
 ```
 
 ## 预训练权重
-链接：[baiduyun](链接:https://pan.baidu.com/s/1Qv7JkkKURRAdmOqIzsBbSg)  
+链接：[baiduyun](https://pan.baidu.com/s/1Qv7JkkKURRAdmOqIzsBbSg)  
 密码:n2ps
 
 
