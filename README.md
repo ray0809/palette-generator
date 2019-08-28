@@ -38,7 +38,7 @@ python color_generator.py your_weight_path
 
 
 ## dataset
-从[colorlover](https://www.colourlovers.com/)进行爬虫得到
+从[colorlover](https://www.colourlovers.com/)进行爬虫得到,具体代码可移步到我的另外一个目录下[learning-selenium](https://github.com/ray0809/learning-selenium)
 
 训练数据：
 ![dir_network](./images/training_samples.jpg)
